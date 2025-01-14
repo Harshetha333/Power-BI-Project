@@ -65,4 +65,3 @@ Special thanks to the project team members and contributors who have made this a
 
 We appreciate your interest in our project and hope the insights offered through our analysis will prove valuable in understanding and enhancing the food and beverage sales landscape.
 
-```
