@@ -1,67 +1,37 @@
-# Food and Beverage Sales Analysis
-
-Welcome to the GitHub repository for the Food and Beverage Sales Analysis project. This repository hosts all relevant files and documentation for an in-depth analysis of sales data within the food and beverage sector, aimed at driving strategic business decisions through data-driven insights.
+# Food & Beverage Sales Analytics Dashboard (Power BI)
 
 ## Project Overview
+This project delivers an end-to-end **sales analytics and reporting solution** built using Microsoft Power BI. The dashboard enables stakeholders to monitor sales performance, customer order behavior, and product-level revenue trends through interactive, self-serve visualizations.
 
-This comprehensive analysis focuses on evaluating sales performance, customer order patterns, and product success to optimize revenue streams and operational efficiency. The project utilizes Microsoft Power BI for dynamic data visualization and an accompanying PowerPoint presentation that elaborates on the analysis insights.
+The goal of the project is to support **data-driven business decisions** by providing accurate, consistent, and well-documented reporting outputs.
+
+## Key Capabilities
+- Interactive Power BI dashboards for sales and revenue monitoring  
+- KPI tracking for order volume, revenue, and product performance  
+- Time-based trend analysis to identify growth and seasonality patterns  
+- Self-serve analytics using filters and drill-downs  
+- Structured reporting suitable for operational and stakeholder review  
+
+## Data & Reporting Logic
+- Data was cleaned, transformed, and validated to ensure accuracy and consistency across metrics  
+- KPIs were defined using standardized business logic to avoid discrepancies across visuals  
+- Assumptions and transformations are documented to support transparency and reproducibility  
 
 ## Repository Structure
+- `Main_file.pbix` – Power BI dashboard with all interactive reports  
+- `Presentation.pptx` – Stakeholder-facing presentation summarizing insights and business implications  
+- `README.md` – Project documentation and usage guide  
 
-- **Main_file.pbix** - Power BI Desktop file containing the full suite of visual analytics developed for this project.
-- **Presentation.pptx** - Detailed presentation outlining key findings, methodologies, and implications for business strategy.
-- **Picture.jpg** - Related graphical content used within documentation and presentations.
-- **QR.jpg** - QR code linking to additional project resources or the online version of the report.
+## Tools Used
+- Microsoft Power BI  
+- Data modeling and transformation (Power Query)  
+- KPI definition and validation  
+- Business-focused data visualization  
 
-## Prerequisites
+## Usage
+1. Open `Main_file.pbix` using Power BI Desktop  
+2. Use filters and slicers to explore sales and product performance  
+3. Review `Presentation.pptx` for summarized insights and recommendations  
 
-To interact with the materials in this repository effectively, you will require:
-- Microsoft Power BI Desktop for `.pbix` files.
-- Microsoft PowerPoint for viewing the `.pptx` presentation.
-- A QR code reader for accessing linked resources.
-
-## Installation and Usage
-
-Follow these steps to get started with the Food and Beverage Sales Analysis:
-
-1. **Clone the repository:**
-   ```
-   git clone https://github.com/<your-username>/<repository-name>.git
-   ```
-2. **Navigate to the repository folder and explore the files.**
-
-3. **Open the Power BI report:**
-   - Launch Power BI Desktop.
-   - Open `Main_file.pbix` to view and interact with the report.
-
-4. **Review the PowerPoint presentation:**
-   - Open `Presentation.pptx` to access the detailed analysis narrative and insights.
-
-## Contributing
-
-We welcome contributions from the community, be it in the form of data updates, feature requests, or bug reports. To contribute:
-- Fork the repository.
-- Create a new branch (`git checkout -b feature-branch`).
-- Make the appropriate changes in the files.
-- Commit your changes (`git commit -am 'Add some feature'`).
-- Push to the branch (`git push origin feature-branch`).
-- Open a pull request.
-
-## Reporting Issues
-
-Should you encounter any issues while using this repository, please file an issue on this GitHub repository, providing a detailed description of the problem and any relevant logs or screenshots.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
-
-## Acknowledgments
-
-Special thanks to the project team members and contributors who have made this analysis possible:
-- Sri Harshetha Amaravadi
-- Yamini Durga Loya
-- Velangani Joshita
-- Lavanya Dudla
-
-We appreciate your interest in our project and hope the insights offered through our analysis will prove valuable in understanding and enhancing the food and beverage sales landscape.
-
+## Author
+Sri Harshetha Amaravadi
